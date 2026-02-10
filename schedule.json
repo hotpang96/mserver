@@ -1,12 +1,27 @@
 {
-  "updated_at": "2026-02-10T12:00:00+09:00",
+  "version": 1,
   "servers": {
     "K": [
-      { "id": "world_all", "name": "월드보스(ALL)", "next_time": "2026-02-10T13:30:00+09:00" },
-      { "id": "team",      "name": "팀배틀",       "next_time": "2026-02-10T15:00:00+09:00" }
+      {
+        "id": "K_world_all",
+        "name": "월드보스(ALL)",
+        "next_time": "2026-02-10T18:08:37+09:00",
+        "starred": false
+      },
+      {
+        "id": "K_teambattle",
+        "name": "월드보스(만보)",
+        "next_time": "2026-02-10T19:08:37+09:00",
+        "starred": false
+      }
     ],
     "C": [
-      { "id": "gu", "name": "월드보스(구보)", "next_time": "2026-02-10T14:10:00+09:00" }
+      {
+        "id": "C_world_old",
+        "name": "월드보스(구보)",
+        "next_time": "2026-02-10T18:38:37+09:00",
+        "starred": false
+      }
     ]
   }
 }
