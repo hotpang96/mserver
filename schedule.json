@@ -13,13 +13,23 @@
         "name": "월드보스(만보)",
         "next_time": "2026-02-10T19:08:37+09:00",
         "starred": false
-      }
-    ],
-    "C": [
+      },
       {
         "id": "C_world_old",
         "name": "월드보스(중보)",
         "next_time": "2026-02-10T18:38:37+09:00",
+        "starred": false
+      },
+      {
+        "id": "K_new_1770710937738",
+        "name": "월드보스(구보)",
+        "next_time": "2026-02-10T18:08:57+09:00",
+        "starred": false
+      },
+      {
+        "id": "K_new_1770710943162",
+        "name": "팀배틀",
+        "next_time": "2026-02-10T18:09:03+09:00",
         "starred": false
       }
     ]
